@@ -1,0 +1,5 @@
+waypoint:gui.xaero_deathpoint:D:-15:26:-414:0:false:1:gui.xaero_default:false:0
+waypoint:AZTaQrva:AK:62:26:-425:13:false:0:gui.xaero_default:false:0
+waypoint:BÁÁÁNYA juk:B:48:33:-485:6:false:0:gui.xaero_default:false:0
+waypoint:Bánya checkpoint:B:19:30:-444:5:false:0:gui.xaero_default:false:0
+waypoint:Haza:HM:-420:75:-673:6:false:0:gui.xaero_default:false:0

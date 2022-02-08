@@ -1,0 +1,15 @@
+[2020-03-17 13:00:26] [main INFO] Using Tweaker
+[2020-03-17 13:00:26] [main INFO] Tweaker: acceptOptions
+[2020-03-17 13:00:26] [main INFO] Tweaker: injectIntoClassLoader
+[2020-03-17 13:00:26] [main INFO] Hook method dpv#n()Lsm; loaded.
+[2020-03-17 13:00:26] [main INFO] Hook method dpv#m()Lsm; loaded.
+[2020-03-17 13:00:26] [main INFO] Hook method dpv#s()Ljava/lang/String; loaded.
+[2020-03-17 13:00:26] [main INFO] Hook method ayg#a(Layh;)Z loaded.
+[2020-03-17 13:00:26] [main INFO] Hook method dgd#render(IIF)V loaded.
+[2020-03-17 13:00:26] [main INFO] Loaded as a library.
+[2020-03-17 13:00:26] [main INFO] Tweaker: getLaunchArguments
+[2020-03-17 13:00:27] [Render thread INFO] [TLSkinCape] Method dgd.render(IIF)V successfully hooked.
+[2020-03-17 13:00:27] [Render thread INFO] [TLSkinCape] Method dpv.n()Lsm; successfully hooked.
+[2020-03-17 13:00:27] [Render thread INFO] [TLSkinCape] Method dpv.m()Lsm; successfully hooked.
+[2020-03-17 13:00:27] [Render thread INFO] [TLSkinCape] Method dpv.s()Ljava/lang/String; successfully hooked.
+[2020-03-17 13:00:27] [Render thread INFO] [TLSkinCape] Method ayg.a(Layh;)Z successfully hooked.

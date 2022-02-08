@@ -1,0 +1,16 @@
+RLCraft_DecentZombie,-3031,-3031,-2949,-2949
+RLCraft_UndergroundRuin2,-3036,-3026,-2951,-2944
+P_Village2Story,-2919,-2906,-3002,-2996
+SeasonsGreenhouse,-2919,-2909,-2972,-2960
+RLCraft_Vineyard,-2890,-2870,-2984,-2956
+VillageWoodMill,-2888,-2875,-3002,-2986
+VillageLargeLibrary,-2865,-2845,-3002,-2983
+RLCraft_PlainsCamp,-3000,-2954,-2891,-2852
+StonePlantMound,-3036,-3031,-2946,-2941
+RLCraft_DecentZombie,-2853,-2853,-2956,-2956
+RLCraft_UndergroundRuin2,-2855,-2848,-2961,-2951
+StonePlantMound1,-2843,-2837,-2985,-2979
+StonePlantMound,-2827,-2822,-3000,-2995
+RLCraft_DecentZombie,-2786,-2786,-2865,-2865
+RLCraft_UndergroundRuin2,-2788,-2781,-2870,-2860
+StonePlantBoulder,-3040,-3030,-2846,-2836

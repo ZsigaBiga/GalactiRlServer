@@ -1,0 +1,1198 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -1046200467512000,
+    "name": "Mixath kalmann",
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "no_active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 296019,
+          "name": "SteveKunG's Lib",
+          "version": {
+            "id": 3230683,
+            "name": "SteveKunG's-Lib-1.12.2-1.1.10",
+            "metadata": {
+              "sha1": "b0caee1f2c9794ef7e58c2e5fadf224ea0c99bdc",
+              "size": 1080012,
+              "path": "mods/SteveKunG's-Lib-1.12.2-1.1.10.jar",
+              "url": "/mods/296019/3230683/SteveKunG%27s-Lib-1.12.2-1.1.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 419697,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 261990,
+          "name": "More Planets - Galacticraft Add-on",
+          "version": {
+            "id": 3165054,
+            "name": "More-Planets-1.12.2-2.2.1-GC280",
+            "metadata": {
+              "sha1": "7838e8aff13ede58b5bd20ce5a23325c222f14be",
+              "size": 7006745,
+              "path": "mods/More-Planets-1.12.2-2.2.1-GC280.jar",
+              "url": "/mods/261990/3165054/More-Planets-1.12.2-2.2.1-GC280.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 296019,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 253449,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 267602,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 61811,
+          "name": "Buildcraft",
+          "version": {
+            "id": 3204475,
+            "name": "buildcraft-all-7.99.24.8",
+            "metadata": {
+              "sha1": "46c7bcb2c81f4786a84f951e7204277c967deb96",
+              "size": 4879732,
+              "path": "mods/buildcraft-all-7.99.24.8.jar",
+              "url": "/mods/61811/3204475/buildcraft-all-7.99.24.8.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "version": {
+            "id": 2728813,
+            "name": "jei_1.12.2-4.15.0.282",
+            "metadata": {
+              "sha1": "7435a958da9e6c1ae5d944cd6fb5e4ad9af2d5be",
+              "size": 650302,
+              "path": "mods/jei_1.12.2-4.15.0.282.jar",
+              "url": "/mods/238222/2728813/jei_1.12.2-4.15.0.282.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242872,
+          "name": "Potion Core",
+          "version": {
+            "id": 2905184,
+            "name": "1.9_for_1.12.2",
+            "metadata": {
+              "sha1": "c22bce1ca24762712680b9e107b77df921847f14",
+              "size": 145329,
+              "path": "mods/PotionCore-1.9_for_1.12.2.jar",
+              "url": "/mods/242872/2905184/PotionCore-1.9_for_1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 264756,
+          "name": "Quality Tools",
+          "version": {
+            "id": 2732994,
+            "name": "1.0.7_for_1.12.2",
+            "metadata": {
+              "sha1": "d48b86bfb5ca622a71332b7b3bffeff2b1729a04",
+              "size": 83553,
+              "path": "mods/QualityTools-1.0.7_for_1.12.2.jar",
+              "url": "/mods/264756/2732994/QualityTools-1.0.7_for_1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 242872,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 227083,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223094,
+          "name": "Inventory Tweaks",
+          "version": {
+            "id": 2923460,
+            "name": "1.64+dev.151",
+            "metadata": {
+              "sha1": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
+              "size": 286144,
+              "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+              "url": "/mods/223094/2923460/InventoryTweaks-1.64%252Bdev.151.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 311327,
+          "name": "Carrots Library [FORGE]",
+          "version": {
+            "id": 2660247,
+            "name": "carrotslib-mc1.12.2-1.0.0b1",
+            "metadata": {
+              "sha1": "0fb74fdf5ea7f4830523255d6ce742e8007b0c12",
+              "size": 290843,
+              "path": "mods/carrotslib-mc1.12.2-1.0.0b1.jar",
+              "url": "/mods/311327/2660247/carrotslib-mc1.12.2-1.0.0b1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 310383,
+          "name": "Armor Underwear Mod [FORGE]",
+          "version": {
+            "id": 2660325,
+            "name": "armorunder-mc1.12.2-1.0.0",
+            "metadata": {
+              "sha1": "e2d720daf5e0a261b32aac6f2809bde0d2b8eaab",
+              "size": 163703,
+              "path": "mods/armorunder-mc1.12.2-1.0.0.jar",
+              "url": "/mods/310383/2660325/armorunder-mc1.12.2-1.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 311327,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 246391,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 276837,
+          "name": "First Aid",
+          "version": {
+            "id": 3534727,
+            "name": "1.6.18",
+            "metadata": {
+              "sha1": "ee70d1ede508be074b095992a7feecddc1f22d71",
+              "size": 488542,
+              "path": "mods/firstaid-1.6.18.jar",
+              "url": "/mods/276837/3534727/firstaid-1.6.18.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 266890,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 69118,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 370420,
+          "name": "RLTweaker",
+          "version": {
+            "id": 2910895,
+            "name": "1.12.2-0.1.0",
+            "metadata": {
+              "sha1": "f7af50fc3916a974c838b0f6bca9d4fffdb6412f",
+              "size": 40477,
+              "path": "mods/RLTweaker-1.12.2-0.1.0.jar",
+              "url": "/mods/370420/2910895/RLTweaker-1.12.2-0.1.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 221585,
+          "name": "Roguelike Dungeons",
+          "version": {
+            "id": 2484145,
+            "name": "1.12.2-1.7.2",
+            "metadata": {
+              "sha1": "6390cd623143452905900699580c60133373e919",
+              "size": 662524,
+              "path": "mods/RoguelikeDungeons-1.12.2-1.7.2.jar",
+              "url": "/mods/221585/2484145/RoguelikeDungeons-1.12.2-1.7.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235729,
+          "name": "Realistic Torches",
+          "version": {
+            "id": 2520544,
+            "name": "1.12.2-2.1.1",
+            "metadata": {
+              "sha1": "4e90e5315bc7666b42f5284cd9d2f02489d30d90",
+              "size": 74187,
+              "path": "mods/RealisticTorches-1.12.2-2.1.1.jar",
+              "url": "/mods/235729/2520544/RealisticTorches-1.12.2-2.1.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227873,
+          "name": "Ruins (Structure Spawning System)",
+          "version": {
+            "id": 2549128,
+            "name": "Ruins (Structure Spawning System)",
+            "metadata": {
+              "sha1": "dc6e19f8368e57d6d35f242ae433bc7d783e50cf",
+              "size": 211402,
+              "path": "mods/Ruins-1.12.2.jar",
+              "url": "/mods/227873/2549128/Ruins-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227877,
+          "name": "AtomicStryker's Battle Towers",
+          "version": {
+            "id": 2497430,
+            "name": "AtomicStryker's Battle Towers",
+            "metadata": {
+              "sha1": "bf7f42603afe95d9e7cbd5e53441a5404ef0d106",
+              "size": 877308,
+              "path": "mods/BattleTowers-1.12.2.jar",
+              "url": "/mods/227877/2497430/BattleTowers-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 291874,
+          "name": "Serene Seasons",
+          "version": {
+            "id": 2550476,
+            "name": "1.12.2-1.0.0-universal",
+            "metadata": {
+              "sha1": "54057d140b1c77724a538ae3a29e53b81af28c05",
+              "size": 153054,
+              "path": "mods/SereneSeasons-1.12.2-1.0.0-universal.jar",
+              "url": "/mods/291874/2550476/SereneSeasons-1.12.2-1.0.0-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 279900,
+          "name": "Trinkets and Baubles",
+          "version": {
+            "id": 2490428,
+            "name": "and",
+            "metadata": {
+              "sha1": "f5093749cafa8453d71452dfbe17653fccc45c7f",
+              "size": 35296,
+              "path": "mods/Trinkets-and-Baubles-1.12.2-0.2.jar",
+              "url": "/mods/279900/2490428/Trinkets-and-Baubles-1.12.2-0.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 313590,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 227083,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 267769,
+          "name": "Traverse Reforged",
+          "version": {
+            "id": 2478137,
+            "name": "Traverse v1.3.1 for 1",
+            "metadata": {
+              "sha1": "6c497b79643344d69a4f1ae3b665cce1f924dd5b",
+              "size": 238337,
+              "path": "mods/Traverse-1.12.1-1.3.1.jar",
+              "url": "/mods/267769/2478137/Traverse-1.12.1-1.3.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 257572,
+          "name": "Wearable Backpacks",
+          "version": {
+            "id": 2502176,
+            "name": " 1.12.2 - 3.1",
+            "metadata": {
+              "sha1": "26a688b5ebc1c0214b280a991e6f9314880e6812",
+              "size": 402516,
+              "path": "mods/WearableBackpacks-1.12.2-3.1.0.jar",
+              "url": "/mods/257572/2502176/WearableBackpacks-1.12.2-3.1.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 274259,
+          "name": "Carry On",
+          "version": {
+            "id": 2481282,
+            "name": "MC1.12 v1.5",
+            "metadata": {
+              "sha1": "262979655e720b6e898ba9c4a2fc2456ecb245d7",
+              "size": 249929,
+              "path": "mods/CarryOn MC1.12 v1.5.1.jar",
+              "url": "/mods/274259/2481282/CarryOn%20MC1.12%20v1.5.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 254441,
+          "name": "Fancy Block Particles",
+          "version": {
+            "id": 2485263,
+            "name": "FBP-2.3",
+            "metadata": {
+              "sha1": "ae8b7a47f3cd53eae839477edaad5e82f068c2fb",
+              "size": 138459,
+              "path": "mods/FancyBlockParticles-1.12.2-2.3.0.jar",
+              "url": "/mods/254441/2485263/FancyBlockParticles-1.12.2-2.3.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 303541,
+          "name": "Advanced Fishing",
+          "version": {
+            "id": 2620291,
+            "name": "Advanced-Fishing-1.0",
+            "metadata": {
+              "sha1": "bd783b99661a83c75d72e3d8e541c88865caa979",
+              "size": 177782,
+              "path": "mods/Advanced-Fishing-1.12.2-1.0.0.jar",
+              "url": "/mods/303541/2620291/Advanced-Fishing-1.12.2-1.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242998,
+          "name": "Silent Lib (silentlib)",
+          "version": {
+            "id": 2851111,
+            "name": "1.12.2-3.0.14+168",
+            "metadata": {
+              "sha1": "5fca3fcef48502fdb26d020eb1d8427516724cb9",
+              "size": 369314,
+              "path": "mods/SilentLib-1.12.2-3.0.14+168.jar",
+              "url": "/mods/242998/2851111/SilentLib-1.12.2-3.0.14%252B168.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224770,
+          "name": "Lycanites Mobs",
+          "version": {
+            "id": 2484968,
+            "name": "1.17.1",
+            "metadata": {
+              "sha1": "a7f79906ca491801520a90e8cf7d154e3dfb7e7a",
+              "size": 76352833,
+              "path": "mods/LycanitesMobsComplete 1.17.1.2-ALPHA01 [1.12.2].jar",
+              "url": "/mods/224770/2484968/LycanitesMobsComplete%201.17.1.2-ALPHA01%20%5B1.12.2%5D.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 345460,
+          "name": "ISeeDragons",
+          "version": {
+            "id": 2801355,
+            "name": "ISeeDragons",
+            "metadata": {
+              "sha1": "10f5f0cb8a0f31b18d26b619736d7d4dcbc51787",
+              "size": 6817,
+              "path": "mods/ISeeDragons-0.1.jar",
+              "url": "/mods/345460/2801355/ISeeDragons-0.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 60028,
+          "name": "Aquaculture 2",
+          "version": {
+            "id": 2557685,
+            "name": "1.12.2-1.6.0",
+            "metadata": {
+              "sha1": "1b8490674e6eb1b9dd773b8e8b41fa1874e9119e",
+              "size": 181505,
+              "path": "mods/Aquaculture-1.12.2-1.6.0.jar",
+              "url": "/mods/60028/2557685/Aquaculture-1.12.2-1.6.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 257814,
+          "name": "CreativeCore",
+          "version": {
+            "id": 3537907,
+            "name": "_v1.10.69_mc1.12.2",
+            "metadata": {
+              "sha1": "5fe1cbba045e1817978d4d4bbd62356e4387ffcb",
+              "size": 1320457,
+              "path": "mods/CreativeCore_v1.10.69_mc1.12.2.jar",
+              "url": "/mods/257814/3537907/CreativeCore_v1.10.69_mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 255389,
+          "name": "EnhancedVisuals",
+          "version": {
+            "id": 2491100,
+            "name": "v1.1.4 mc1.12.2",
+            "metadata": {
+              "sha1": "8387be0b42d08f65e6b690d1838f2ed30ac1d5ab",
+              "size": 3744718,
+              "path": "mods/EnhancedVisuals v1.1.4 mc1.12.2.jar",
+              "url": "/mods/255389/2491100/EnhancedVisuals%20v1.1.4%20mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 257814,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227795,
+          "name": "Antique Atlas",
+          "version": {
+            "id": 2532174,
+            "name": "antiqueatlas-1.12.2-4.4.6",
+            "metadata": {
+              "sha1": "fbf508e71464cdbb63d72ecd9cf823a6d9ac19c8",
+              "size": 1222922,
+              "path": "mods/antiqueatlas-1.12.2-4.4.6.jar",
+              "url": "/mods/227795/2532174/antiqueatlas-1.12.2-4.4.6.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 319057,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227083,
+          "name": "Baubles",
+          "version": {
+            "id": 2518667,
+            "name": "1.12-1.5.2",
+            "metadata": {
+              "sha1": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549",
+              "size": 108450,
+              "path": "mods/Baubles-1.12-1.5.2.jar",
+              "url": "/mods/227083/2518667/Baubles-1.12-1.5.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 273502,
+          "name": "Defiled Lands",
+          "version": {
+            "id": 2482363,
+            "name": "defiledlands-1.12.2-1.0.0",
+            "metadata": {
+              "sha1": "36d8acc073d868f9943674da9db3c24610985e79",
+              "size": 711744,
+              "path": "mods/defiledlands-1.12.2-1.0.0.jar",
+              "url": "/mods/273502/2482363/defiledlands-1.12.2-1.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 227083,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 267602,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 226410,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 235279,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 74072,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 231951,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 313536,
+          "name": "BountifulBaubles",
+          "version": {
+            "id": 2670120,
+            "name": "Bountiful Baubles-1.12.2-0.0.1",
+            "metadata": {
+              "sha1": "437688026fd680de1cb217e8d4c1568d167eee1d",
+              "size": 396030,
+              "path": "mods/Bountiful Baubles-1.12.2-0.0.1.jar",
+              "url": "/mods/313536/2670120/Bountiful%20Baubles-1.12.2-0.0.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 309927,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 276951,
+          "name": "Comforts (Forge)",
+          "version": {
+            "id": 2501099,
+            "name": "comforts-1.12.2-1.0.0",
+            "metadata": {
+              "sha1": "83f0ad7d63dbe4c66e98d57324722265ecf4e35e",
+              "size": 136175,
+              "path": "mods/comforts-1.12.2-1.0.0.jar",
+              "url": "/mods/276951/2501099/comforts-1.12.2-1.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 257820,
+          "name": "Switch-Bow",
+          "version": {
+            "id": 2498113,
+            "name": "1",
+            "metadata": {
+              "sha1": "46cd86a1398ecf3b12af67628f2869a6637c1ee5",
+              "size": 393464,
+              "path": "mods/switchbow-1.5-1.12.2.jar",
+              "url": "/mods/257820/2498113/switchbow-1.5-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231347,
+          "name": "Mo' Bends",
+          "version": {
+            "id": 2456231,
+            "name": "0.24 for Minecraft 1",
+            "metadata": {
+              "sha1": "e8fe489798543bdecc4506b8b3a739ef3179a613",
+              "size": 669015,
+              "path": "mods/mobends-0.24_for_MC-1.12.jar",
+              "url": "/mods/231347/2456231/mobends-0.24_for_MC-1.12.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "version": {
+            "id": 2464463,
+            "name": "_1.12.1-4.0.15",
+            "metadata": {
+              "sha1": "733436b945fc5164fe5514fb67e5872058efc124",
+              "size": 128681,
+              "path": "mods/Waystones_1.12.1-4.0.15.jar",
+              "url": "/mods/245755/2464463/Waystones_1.12.1-4.0.15.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 260360,
+          "name": "Better Survival mod",
+          "version": {
+            "id": 2488673,
+            "name": "Better Survival 1.3.4 (1.12",
+            "metadata": {
+              "sha1": "aee7a56c101e815d427f51b43f136fa5264a099e",
+              "size": 1300252,
+              "path": "mods/Better_Survival-1.3.4(1.12.1).jar",
+              "url": "/mods/260360/2488673/Better_Survival-1.3.4(1.12.1).jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 264231,
+          "name": "Ice and Fire Dragons",
+          "version": {
+            "id": 2515531,
+            "name": "iceandfire-1.3.0-1.12",
+            "metadata": {
+              "sha1": "04a7a87b3c23fb749acb1cefaeea969f4fa44398",
+              "size": 9007051,
+              "path": "mods/iceandfire-1.3.0-1.12.2.jar",
+              "url": "/mods/264231/2515531/iceandfire-1.3.0-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 331936,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 367831,
+          "name": "AI Reducer",
+          "version": {
+            "id": 2903549,
+            "name": "1.12.2-0.1.0",
+            "metadata": {
+              "sha1": "030bfb5a67826c51ca24c081f1fffbc273abf5d8",
+              "size": 29539,
+              "path": "mods/AIReducer-1.12.2-0.1.0.jar",
+              "url": "/mods/367831/2903549/AIReducer-1.12.2-0.1.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 262886,
+          "name": "TschippLib",
+          "version": {
+            "id": 3459390,
+            "name": "tschipplib-1.12.2-1.1.7",
+            "metadata": {
+              "sha1": "6260b29a034ad9852d5d4c73fb33c9cbb18f7483",
+              "size": 70966,
+              "path": "mods/tschipplib-1.12.2-1.1.7.jar",
+              "url": "/mods/262886/3459390/tschipplib-1.12.2-1.1.7.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 262884,
+          "name": "Forgotten Items",
+          "version": {
+            "id": 2622956,
+            "name": "MC1.12.2 v1",
+            "metadata": {
+              "sha1": "6834d809003c0a9fba83a54b5b1c0e0269b0c31a",
+              "size": 615874,
+              "path": "mods/ForgottenItems MC1.12.2 v1.1.jar",
+              "url": "/mods/262884/2622956/ForgottenItems%20MC1.12.2%20v1.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 262886,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238372,
+          "name": "Neat",
+          "version": {
+            "id": 2436376,
+            "name": "1.4-15",
+            "metadata": {
+              "sha1": "7054ae6b278bb00a95297b4150e14528acbed345",
+              "size": 16390,
+              "path": "mods/Neat 1.4-15.jar",
+              "url": "/mods/238372/2436376/Neat%201.4-15.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253689,
+          "name": "Wolf Armor and Storage",
+          "version": {
+            "id": 2481675,
+            "name": "1.12.2-2.1.0.19-ALPHA",
+            "metadata": {
+              "sha1": "80ff7bfc8b78b377bd96776a759514f89084b827",
+              "size": 203937,
+              "path": "mods/wolfarmor-1.12.2-2.1.0.19-ALPHA.jar",
+              "url": "/mods/253689/2481675/wolfarmor-1.12.2-2.1.0.19-ALPHA.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243298,
+          "name": "LLibrary",
+          "version": {
+            "id": 3116493,
+            "name": "1.7.20",
+            "metadata": {
+              "sha1": "fba97f9dbe750f17904c00db8ff58291595106b8",
+              "size": 884550,
+              "path": "mods/llibrary-1.7.20-1.12.2.jar",
+              "url": "/mods/243298/3116493/llibrary-1.7.20-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 10000009,
+          "name": "Galacticraft",
+          "version": {
+            "id": 11000501,
+            "name": "1.12.2-4.0.2.280",
+            "metadata": {
+              "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
+              "size": 10610662,
+              "path": "mods/GalacticraftCore-1.12.2-4.0.2.280.jar",
+              "url": "/mods/10000009/11000501/GalacticraftCore-1.12.2-4.0.2.280.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 10000010,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 10000010,
+          "name": "MicdoodleCore",
+          "version": {
+            "id": 11000503,
+            "name": "1.12.2-4.0.2.280",
+            "metadata": {
+              "sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
+              "size": 53300,
+              "path": "mods/MicdoodleCore-1.12.2-4.0.2.280.jar",
+              "url": "/mods/10000010/11000503/MicdoodleCore-1.12.2-4.0.2.280.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 10000011,
+          "name": "Galacticraft Planets",
+          "version": {
+            "id": 11000502,
+            "name": "1.12.2-4.0.2.280",
+            "metadata": {
+              "sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
+              "size": 3975978,
+              "path": "mods/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+              "url": "/mods/10000011/11000502/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 10000009,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 10000010,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 315405,
+          "name": "Galacticraft Rich Presence",
+          "version": {
+            "id": 2683442,
+            "name": "1.12.2-2.1",
+            "metadata": {
+              "sha1": "1f9245d07acb041c9cc85bfb6d1bcff71547aa1c",
+              "size": 2366894,
+              "path": "mods/galacticraft-rpc-2.1.1.jar",
+              "url": "/mods/315405/2683442/galacticraft-rpc-2.1.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1048954754055100,
+          "name": "FlameLib-1.12.2-0.0.7",
+          "version": {
+            "id": -1048954769137800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2772dc67fc58ba5782e0ec0b257481c32e5e1fa9",
+              "size": 46474,
+              "path": "mods/FlameLib-1.12.2-0.0.7.jar",
+              "url": "mods/FlameLib-1.12.2-0.0.7.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1048954769267000,
+          "name": "llibrary-core-1.0.11-1.12.2",
+          "version": {
+            "id": -1048954809195500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6bdaeaf52c53263ff545e2eafb90a1fb43c160b5",
+              "size": 446755,
+              "path": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar",
+              "url": "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248027,
+          "name": "Scaling Health",
+          "version": {
+            "id": 2816920,
+            "name": "1.12.2-1.3.42+147",
+            "metadata": {
+              "sha1": "e621a6b6319bd3a854055af2b21826068852f0ea",
+              "size": 369985,
+              "path": "mods/ScalingHealth-1.12.2-1.3.42+147.jar",
+              "url": "/mods/248027/2816920/ScalingHealth-1.12.2-1.3.42%252B147.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 242998,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "version": {
+            "id": 11001818,
+            "name": "OptiFine-1.12.2_HD_U_G5",
+            "metadata": {
+              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+              "size": 2457427,
+              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
+              "url": "/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 246391,
+          "name": "Tough As Nails",
+          "version": {
+            "id": 2644652,
+            "name": "1.12.2-3.1.0.139-universal",
+            "metadata": {
+              "sha1": "90f75510a9db3a9f891091fd5b3ac745f295f2ef",
+              "size": 354871,
+              "path": "mods/ToughAsNails-1.12.2-3.1.0.139-universal.jar",
+              "url": "/mods/246391/2644652/ToughAsNails-1.12.2-3.1.0.139-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1058590714560700,
+          "name": "ChunkAnimator-MC1.12-1.2",
+          "version": {
+            "id": -1058590754886000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "56c9ddc23767f879c46e3f8498762cd8f86b5f82",
+              "size": 25447,
+              "path": "mods/ChunkAnimator-MC1.12-1.2.jar",
+              "url": "mods/ChunkAnimator-MC1.12-1.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1058590755008600,
+          "name": "grapplemod-v10-1.12.2",
+          "version": {
+            "id": -1058590795977599,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a9cfeb37997d47050503cdec56c03c8589999f73",
+              "size": 121468,
+              "path": "mods/grapplemod-v10-1.12.2.jar",
+              "url": "mods/grapplemod-v10-1.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1058590796075000,
+          "name": "Modpack+Configuration+Checker-1.18.x-v1.9.5",
+          "version": {
+            "id": -1058590895587600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "505fd862ed931fc93688c1579b5e5a1b0a6b383a",
+              "size": 148541,
+              "path": "mods/Modpack+Configuration+Checker-1.18.x-v1.9.5.jar",
+              "url": "mods/Modpack+Configuration+Checker-1.18.x-v1.9.5.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1058590895680200,
+          "name": "stg-1.12-1.2.1",
+          "version": {
+            "id": -1058590943363100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "838e92317720f4bf6aad8db20ff102815ac073d5",
+              "size": 22100,
+              "path": "mods/stg-1.12-1.2.1.jar",
+              "url": "mods/stg-1.12-1.2.1.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "forgeVersion": "14.23.5.2860",
+      "gameVersion": "1.12.2",
+      "id": -1046200467513901,
+      "name": "1.0"
+    },
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}

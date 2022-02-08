@@ -1,0 +1,5 @@
+StonePlantMound,-3096,-3091,-2874,-2869
+UndergroundTreeoid,-3111,-3088,-2966,-2940
+RLCraft_UndergroundFarm,-3144,-3101,-3085,-3043
+RLCraft_DecentSpider,-3131,-3131,-2843,-2843
+RLCraft_UndergroundRuin2,-3136,-3126,-2845,-2838

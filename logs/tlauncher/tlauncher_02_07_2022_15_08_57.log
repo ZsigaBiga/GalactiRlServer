@@ -1,0 +1,48 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.75 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 2022.02.07. 15:09:06
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_201, jvm bit x64, 8134 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+ NVIDIA GeForce GT 1030, GeForce GT 1030, 6049 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.75&client=df16dcb5-d637-4a21-b28f-ed559052accf
+[Updater] Request time: 274 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 54 / 117 MB
+Garbage collector completed: 18 / 118 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\User\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\User\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 27 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Update:2.841] Set state: DOWNLOADING
+[Update:2.841] dest C:\Users\User\AppData\Roaming\.minecraft\TLauncher.exe.update
+[Update:2.841] url: http://repo.tlauncher.org/update/lch/TLauncher-2.841.exe
+[Downloader2] Files in queue 1
+[Downloader2] Starting download 1 files...
+[D#1] >  http://repo.tlauncher.org/update/lch/TLauncher-2.841.exe 
+[Update:2.841] Set state: READY
+[Double running] clear time label
+[Update:2.841] Set state: APPLYING
+[Bootstrapper] choose jvm for restart:C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe
+Good bye!
+flush now

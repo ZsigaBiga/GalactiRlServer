@@ -1,0 +1,286 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.841 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 2022.02.07. 15:09:59
+Running folder C:\Users\User\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 8134 MB RAM
+java path=C:\Users\User\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+ NVIDIA GeForce GT 1030, GeForce GT 1030, 6049 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_2.0.json?version=2.841&client=df16dcb5-d637-4a21-b28f-ed559052accf
+[Updater] Request time: 473 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 23 / 113 MB
+Garbage collector completed: 16 / 112 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\User\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\User\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 40 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/eng.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (15052 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 110 ms.
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/eng.html during 4
+[Browser@2007506183] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/eng.html"
+save profiles
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+set logging 1.12.json version type 1.13.1, version id 1.13.1
+set logging 1.12.json version type 1.13.1, version id 1.13.2
+set logging 1.12.json version type 1.14, version id 1.14
+set logging 1.12.json version type 1.14, version id 1.14.4
+set logging 1.12.json version type 1.15, version id 1.15.1
+set logging 1.12.json version type 1.15, version id 1.15.2
+set logging 1.12.json version type 1.16, version id 20w20a
+set logging 1.12.json version type 1.14.4, version id Ass
+set logging 1.12.json version type 1.12.2, version id BrubblePack Brubblepack-1.0.2
+set logging 1.7.10.json version type 1.7.10, version id City Warfare City Warfare 1.0
+set logging 1.7.10.json version type 1.7.10, version id Flans Combat Pack (FCP) 1.6 re
+set logging 1.12.json version type 1.12.2, version id Forge 1.12.2
+set logging 1.12.json version type 1.14.4, version id Forge 1.14.4
+set logging 1.7.10.json version type 1.7.10, version id Guns, Cars, and Morph 1.0
+set logging 1.7.10.json version type 1.7.10, version id Industrial Pack Industrial Pack
+set logging 1.12.json version type 1.12.2, version id Lapito's Galacticraft Lapito's Galacticraft 1.8.5
+set logging 1.12.json version type 1.12.2, version id Life in the village 1.11
+set logging 1.7.10.json version type 1.7.10, version id Lord Of The Rings Tech lotr tech 0
+set logging 1.12.json version type 1.14.4, version id OptiFine 1.14.4
+set logging 1.12.json version type 1.15.2, version id OptiFine 1.15.2
+set logging 1.7.10.json version type 1.10.2, version id Pokemon Adventure 1.2.1
+set logging 1.12.json version type 1.12.2, version id RLCraft 1.12.2 - Beta v2.8.1
+set logging 1.7.10.json version type 1.10.2, version id the modern war 1.10.2
+set logging 1.7.10.json version type 1.7.10, version id What Pack 1.0
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 26 ms.
+[SkinVersionList] Got in 44 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 66 ms.
+[ExtraVersionList] Got in 103 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 134 ms.
+[OfficialVersionList] Got in 254 ms
+[VersionManager] Versions has been refreshed (2864 ms)
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 19 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 15 ms.
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 22 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 44 ms.
+local server started
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 19 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 15 ms.
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 22 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 96 ms.
+[Double running] clear time label
+Starting garbage collector: 73 / 270 MB
+Garbage collector completed: 39 / 270 MB
+[Downloader2] Files in queue 1
+[Downloader2] Starting download 1 files...
+[D#1] >  https://mps.tlauncher.org/client/read/separated/infomod?lang=EN_US&version=2.841 
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 84 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 17 ms.
+Starting garbage collector: 355 / 485 MB
+Garbage collector completed: 177 / 493 MB
+save profiles
+[OS] Trying to open folder: C:\Users\User\AppData\Roaming\.minecraft\
+[Modpack]  active  C:\Users\User\AppData\Roaming\.minecraft\versions\the modern war 1.10.2\mods\gravestone-1.5.13.jar
+[Version:1.18.1-forge-39.0.66] Resolving...
+[Version:1.18.1-forge-39.0.66] Inherits from 1.18.1
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 84 ms.
+Starting garbage collector: 333 / 515 MB
+Garbage collector completed: 199 / 515 MB
+Starting garbage collector: 226 / 515 MB
+Garbage collector completed: 199 / 514 MB
+Starting garbage collector: 257 / 487 MB
+Garbage collector completed: 199 / 510 MB
+Starting garbage collector: 339 / 532 MB
+Garbage collector completed: 198 / 528 MB
+OutOfMemory error has occurred, solving...
+Starting garbage collector: 200 / 528 MB
+Garbage collector completed: 200 / 528 MB
+OutOfMemory error has occurred, solving...
+GC is unable to reduce memory usage
+Showing error:
+java.lang.OutOfMemoryError: Java heap space
+at java.util.Arrays.copyOf(Arrays.java:3332)
+at java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:124)
+at java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:649)
+at java.lang.StringBuilder.append(StringBuilder.java:202)
+at org.tlauncher.util.FileUtil.readStream(FileUtil.java:103)
+at org.tlauncher.util.FileUtil.readStream(FileUtil.java:110)
+at org.tlauncher.util.FileUtil.readZippedFile(FileUtil.java:594)
+at org.tlauncher.tlauncher.managers.ModpackManager.loadInfo(ModpackManager.java:180)
+at org.tlauncher.tlauncher.ui.login.buttons.ModpackButton.lambda$null$1(ModpackButton.java:24)
+at org.tlauncher.tlauncher.ui.login.buttons.ModpackButton$$Lambda$345/536212221.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at org.tlauncher.util.async.RunnableThread.run(RunnableThread.java:15)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:21)
+at org.tlauncher.util.async.RunnableThread.<init>(RunnableThread.java:7)
+at org.tlauncher.util.async.AsyncThread$1.newThread(AsyncThread.java:12)
+at java.util.concurrent.ThreadPoolExecutor$Worker.<init>(ThreadPoolExecutor.java:619)
+at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:932)
+at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1378)
+at org.tlauncher.util.async.AsyncThread.execute(AsyncThread.java:17)
+at org.tlauncher.tlauncher.ui.login.buttons.ModpackButton.lambda$new$2(ModpackButton.java:22)
+at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+at java.awt.Component.processMouseEvent(Component.java:6539)
+at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+at java.awt.Component.processEvent(Component.java:6304)
+at java.awt.Container.processEvent(Container.java:2239)
+at java.awt.Component.dispatchEventImpl(Component.java:4889)
+at java.awt.Container.dispatchEventImpl(Container.java:2297)
+at java.awt.Component.dispatchEvent(Component.java:4711)
+at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+at java.awt.Container.dispatchEventImpl(Container.java:2283)
+at java.awt.Window.dispatchEventImpl(Window.java:2746)
+at java.awt.Component.dispatchEvent(Component.java:4711)
+at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+at java.awt.EventQueue.access$500(EventQueue.java:97)
+at java.awt.EventQueue$3.run(EventQueue.java:709)
+at java.awt.EventQueue$3.run(EventQueue.java:703)
+at java.security.AccessController.doPrivileged(Native Method)
+at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+at java.awt.EventQueue$4.run(EventQueue.java:733)
+at java.awt.EventQueue$4.run(EventQueue.java:731)
+at java.security.AccessController.doPrivileged(Native Method)
+at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+Starting garbage collector: 275 / 535 MB
+Garbage collector completed: 198 / 536 MB
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[VersionManager] Refreshing versions remotely...
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 29 ms.
+[ExtraVersionList] Got in 41 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 75 ms.
+[SkinVersionList] Got in 79 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 147 ms.
+[OfficialVersionList] Got in 198 ms
+[VersionManager] Versions has been refreshed (250 ms)
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 21 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 15 ms.
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 16 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 14 ms.
+[Version:Ass] Resolving...
+[Version:Ass] Inherits from 1.14.4
+[Version:BrubblePack Brubblepack-1.0.2] Resolving...
+[Version:BrubblePack Brubblepack-1.0.2] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 17 ms.
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Resolving...
+[Version:Lapito's Galacticraft Lapito's Galacticraft 1.8.5] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 16 ms.
+Starting garbage collector: 272 / 557 MB
+Garbage collector completed: 198 / 563 MB
+OutOfMemory error has occurred, solving...
+Starting garbage collector: 200 / 563 MB
+Garbage collector completed: 200 / 556 MB
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary C:\Users\User\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\User\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\User\AppData\Roaming\.minecraft\mods\ExtraPlanets-1.15.2-0.6.0.jar C:\Users\User\AppData\Roaming\.minecraft\mods\Galacticraft-Planets-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\GalacticraftCore-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.170-ex112.jar C:\Users\User\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.293.jar C:\Users\User\AppData\Roaming\.minecraft\mods\MicdoodleCore-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\MJRLegendsLib-1.12.2-1.1.9.jar C:\Users\User\AppData\Roaming\.minecraft\mods\worldedit-forge-mc1.12-6.1.8-dist.jar C:\Users\User\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.5.2_Forge_1.12.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\User\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\User\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\User\AppData\Roaming\.minecraft\mods\ExtraPlanets-1.15.2-0.6.0.jar C:\Users\User\AppData\Roaming\.minecraft\mods\Galacticraft-Planets-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\GalacticraftCore-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.170-ex112.jar C:\Users\User\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.293.jar C:\Users\User\AppData\Roaming\.minecraft\mods\MicdoodleCore-1.15.2-4.0.2.239.jar C:\Users\User\AppData\Roaming\.minecraft\mods\MJRLegendsLib-1.12.2-1.1.9.jar C:\Users\User\AppData\Roaming\.minecraft\mods\worldedit-forge-mc1.12-6.1.8-dist.jar C:\Users\User\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.5.2_Forge_1.12.jar
+flush now

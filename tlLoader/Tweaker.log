@@ -1,0 +1,15 @@
+[2020-04-30 21:09:55] [main INFO] Using Tweaker
+[2020-04-30 21:09:55] [main INFO] Tweaker: acceptOptions
+[2020-04-30 21:09:56] [main INFO] Tweaker: injectIntoClassLoader
+[2020-04-30 21:09:56] [main INFO] Hook method dpy#n()Lsm; loaded.
+[2020-04-30 21:09:56] [main INFO] Hook method dpy#m()Lsm; loaded.
+[2020-04-30 21:09:56] [main INFO] Hook method dpy#s()Ljava/lang/String; loaded.
+[2020-04-30 21:09:56] [main INFO] Hook method ayj#a(Layk;)Z loaded.
+[2020-04-30 21:09:56] [main INFO] Hook method dgf#render(IIF)V loaded.
+[2020-04-30 21:09:56] [main INFO] Loaded as a library.
+[2020-04-30 21:09:56] [main INFO] Tweaker: getLaunchArguments
+[2020-04-30 21:09:57] [Render thread INFO] [TLSkinCape] Method dgf.render(IIF)V successfully hooked.
+[2020-04-30 21:09:58] [Render thread INFO] [TLSkinCape] Method ayj.a(Layk;)Z successfully hooked.
+[2020-04-30 21:09:59] [Render thread INFO] [TLSkinCape] Method dpy.n()Lsm; successfully hooked.
+[2020-04-30 21:09:59] [Render thread INFO] [TLSkinCape] Method dpy.m()Lsm; successfully hooked.
+[2020-04-30 21:09:59] [Render thread INFO] [TLSkinCape] Method dpy.s()Ljava/lang/String; successfully hooked.
